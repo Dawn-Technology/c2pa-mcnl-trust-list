@@ -1,0 +1,4 @@
+did:jwk:eyJhbGciOiJFZERTQSIsImt0eSI6Ik9LUCIsImNydiI6IkVkMjU1MTkiLCJ4IjoiTXA1LTBlODNuTmdRaGRoQlc4UnNoa2p5OTBzYTFBOUpJemtJdGNEcUN1SSJ9
+did:web:verify.contentauthenticity.org
+did:web:c2pa.org
+did:web:connected-identities.identity-stage.adobe.com
