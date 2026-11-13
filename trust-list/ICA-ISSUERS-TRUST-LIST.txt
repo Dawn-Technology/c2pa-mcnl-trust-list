@@ -3,3 +3,4 @@ did:web:verify.contentauthenticity.org
 did:web:c2pa.org
 did:web:connected-identities.identity-stage.adobe.com
 did:jwk:hhkZ1uxYYMzZf7DBihrpQ-doTCHtRkt_8wOVmAS7nnc
+did:web:www.vpro.nl
